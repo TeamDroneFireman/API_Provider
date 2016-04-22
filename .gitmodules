@@ -1,3 +1,15 @@
 [submodule "SinisterService"]
 	path = SinisterService
 	url = https://github.com/TeamDroneFireman/SinisterService.git
+[submodule "DroneService"]
+	path = DroneService
+	url = https://github.com/TeamDroneFireman/DroneService.git
+[submodule "InterventionService"]
+	path = InterventionService
+	url = https://github.com/TeamDroneFireman/InterventionService.git
+[submodule "MeanService"]
+	path = MeanService
+	url = https://github.com/TeamDroneFireman/MeanService.git
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/TeamDroneFireman/UserService.git
