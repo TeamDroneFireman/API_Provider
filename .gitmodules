@@ -1,0 +1,3 @@
+[submodule "SinisterService"]
+	path = SinisterService
+	url = https://github.com/TeamDroneFireman/SinisterService.git
