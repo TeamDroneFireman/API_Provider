@@ -19,3 +19,7 @@
 [submodule "PushService"]
    	path = PushService
    	url = https://github.com/TeamDroneFireman/PushService.git
+[submodule "SIGExternService"]
+        path = SIGExternService
+        url = https://github.com/TeamDroneFireman/SIGExternService.git
+
