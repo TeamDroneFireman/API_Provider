@@ -16,3 +16,6 @@
 [submodule "SIGService"]
    	path = SIGService
    	url = https://github.com/TeamDroneFireman/SIGService.git
+[submodule "PushService"]
+   	path = PushService
+   	url = https://github.com/TeamDroneFireman/PushService.git
